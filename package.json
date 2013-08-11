@@ -1,0 +1,9 @@
+{
+    "name": "webrtc-test",
+    "dependencies": {
+        "peerjs-browserify-unofficial": "0.2.8-alpha2"
+    },
+    "devDependencies": {
+        "browserify": "2.26.0"
+    }
+}
